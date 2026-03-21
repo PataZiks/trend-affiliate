@@ -1,7 +1,50 @@
 {
   "Frauen Mode & Beauty": {
     "google": [],
-    "reddit": [],
+    "reddit": [
+      {
+        "term": "What are we actually liking in terms of trends for spring 2026? Feeling very uni",
+        "value": 204,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1ry00m6/what_are_we_actually_liking_in_terms_of_trends/",
+        "thumbnail": null
+      },
+      {
+        "term": "Jean Style for Large Thighs and Butt",
+        "value": 13,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1rygnvz/jean_style_for_large_thighs_and_butt/",
+        "thumbnail": null
+      },
+      {
+        "term": "women’s swimwear?",
+        "value": 21,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1ryc9nc/womens_swimwear/",
+        "thumbnail": null
+      },
+      {
+        "term": "General Discussion - March 20, 2026",
+        "value": 1,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1ryt6ps/general_discussion_march_20_2026/",
+        "thumbnail": null
+      },
+      {
+        "term": "Best brands for long torsos? (Longer tops, extra high waisted bottoms)",
+        "value": 22,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1ry0mxi/best_brands_for_long_torsos_longer_tops_extra/",
+        "thumbnail": null
+      },
+      {
+        "term": "Dressing for the female gaze in the club",
+        "value": 108,
+        "source": "r/femalefashionadvice",
+        "url": "https://reddit.com/r/femalefashionadvice/comments/1rxizpk/dressing_for_the_female_gaze_in_the_club/",
+        "thumbnail": "https://preview.redd.it/g7j9zif8uvpg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1bdd092b2d471d6ef15742d521c1d5e98f6f331f"
+      }
+    ],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Damen%20Mode%20Trend&tag=DEIN-TAG-21&rh=n:1981002031",
       "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/1981002031?tag=DEIN-TAG-21"
@@ -9,7 +52,50 @@
   },
   "Männer Mode": {
     "google": [],
-    "reddit": [],
+    "reddit": [
+      {
+        "term": "What shirt are you wearing to the pool?",
+        "value": 18,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1ryx85n/what_shirt_are_you_wearing_to_the_pool/",
+        "thumbnail": null
+      },
+      {
+        "term": "starting a new chapter at 55 - retired early and want my wardrobe to match my fr",
+        "value": 14,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1ryusiv/starting_a_new_chapter_at_55_retired_early_and/",
+        "thumbnail": null
+      },
+      {
+        "term": "White sneakers for someone that mainly wear chino shorts?",
+        "value": 3,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1rz134j/white_sneakers_for_someone_that_mainly_wear_chino/",
+        "thumbnail": null
+      },
+      {
+        "term": "Help with summer clothes",
+        "value": 51,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1ryhsln/help_with_summer_clothes/",
+        "thumbnail": null
+      },
+      {
+        "term": "I have a 27in waist with 35in hips. Anyone else?",
+        "value": 2,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1rz1lw1/i_have_a_27in_waist_with_35in_hips_anyone_else/",
+        "thumbnail": null
+      },
+      {
+        "term": "best value brands for linen pants?",
+        "value": 56,
+        "source": "r/malefashionadvice",
+        "url": "https://reddit.com/r/malefashionadvice/comments/1ry6th2/best_value_brands_for_linen_pants/",
+        "thumbnail": null
+      }
+    ],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Herren%20Mode%20Trend&tag=DEIN-TAG-21&rh=n:77028031",
       "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/77028031?tag=DEIN-TAG-21"
@@ -18,37 +104,94 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "home assistant",
+        "term": "bosch",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 100,
+        "value": 66,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
+        "term": "home assistant",
+        "value": 65,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+      },
+      {
+        "term": "smart home ikea",
+        "value": 42,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20ikea&geo=DE"
+      },
+      {
         "term": "smart home app",
-        "value": 58,
+        "value": 37,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "apple smart home",
-        "value": 41,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
-      },
-      {
-        "term": "matter",
-        "value": 41,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=matter&geo=DE"
       }
     ],
-    "reddit": [],
+    "reddit": [
+      {
+        "term": "Researchers develop fully biodegradable robotic finger",
+        "value": 376,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1ryn76g/researchers_develop_fully_biodegradable_robotic/",
+        "thumbnail": "https://external-preview.redd.it/omdPQoXaFTTaEBM7x-OonycmN-eVvDxuC72S3aHzaKE.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=fc4a576d426fcbeb387cfc0b61935d47af429b3c"
+      },
+      {
+        "term": "Nothing Phone 4a Pro review: A midrange phone that rivals the Pixel 10a",
+        "value": 657,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1ry96k9/nothing_phone_4a_pro_review_a_midrange_phone_that/",
+        "thumbnail": "https://external-preview.redd.it/IJwms2kqgqt7FRFx170YulxeFT0zwi9rUKzh5jp11CQ.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=71d609098f03efd4076201dcd3eb50e477dcfd50"
+      },
+      {
+        "term": "Apple Studio Display XDR Review: It Looks So Good, I Wish It Were an iMac",
+        "value": 273,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rydd3g/apple_studio_display_xdr_review_it_looks_so_good/",
+        "thumbnail": "https://external-preview.redd.it/jcS9gxNjvGELzYP59jKyL5zKTC9DGV5js1z1ee8OIX4.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=23211f576d2858a3b1df758ed5962d361584dc6f"
+      },
+      {
+        "term": "Lenovo brings retro arcade cabinet gaming to high-end Android tablets with new r",
+        "value": 585,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rxweo8/lenovo_brings_retro_arcade_cabinet_gaming_to/",
+        "thumbnail": "https://external-preview.redd.it/_F00peCQdJjM59g8_V3X3p0gRUj8rkwzP3tJ4lmanoI.jpeg?width=140&amp;height=105&amp;auto=webp&amp;s=b904dcb82833f97bd8b37d73a6b12c8b2a4ad243"
+      },
+      {
+        "term": "Leak reveals Panasonic Lumix TZ300 with 1 inch sensor and 24 - 360 mm Leica zoom",
+        "value": 219,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rxxfjv/leak_reveals_panasonic_lumix_tz300_with_1_inch/",
+        "thumbnail": "https://external-preview.redd.it/lQlnhlspoevTYLKgx14BF1tVZoE6zUAE1_b7w0MFUjo.jpeg?width=140&amp;height=102&amp;auto=webp&amp;s=cdda016ffda2ad62a89f190bc4f2c9fdad254a78"
+      },
+      {
+        "term": "Next-Gen Gaming Laptops Will Have Better Screens and Chips—and Cost Way More",
+        "value": 651,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rx85ob/nextgen_gaming_laptops_will_have_better_screens/",
+        "thumbnail": "https://external-preview.redd.it/i564WSpXms4zOUpssQ9cYqIIhuyLazCKgoGxPOEtiG0.jpeg?width=140&amp;height=78&amp;auto=webp&amp;s=1684efb15ead76afcce53233ca237f9de4169ad7"
+      },
+      {
+        "term": "Nintendo Switch 2: Videos show drastic graphics upgrades with Nintendo's new boo",
+        "value": 1660,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rwtxmx/nintendo_switch_2_videos_show_drastic_graphics/",
+        "thumbnail": "https://external-preview.redd.it/vG61GGFkMP5DXdw30VWZRzW_5KfUzsPrEu-USwSYD4M.jpeg?width=140&amp;height=92&amp;auto=webp&amp;s=233d6a1cd159ccf197589e5220a9ff74b426a47d"
+      },
+      {
+        "term": "Ikea tried to build a smart home for everyone — here’s why it’s not working yet",
+        "value": 470,
+        "source": "r/gadgets",
+        "url": "https://reddit.com/r/gadgets/comments/1rwquum/ikea_tried_to_build_a_smart_home_for_everyone/",
+        "thumbnail": "https://external-preview.redd.it/u95OrgKJMZ62BVNMnm0j-awOFUnRf_05A6ZJfD5j5kc.jpeg?width=140&amp;height=72&amp;auto=webp&amp;s=1f044b211af60c13abe74eb6453376a2c893f243"
+      }
+    ],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Gadgets%202025&tag=DEIN-TAG-21&rh=n:573084",
       "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/573084?tag=DEIN-TAG-21"
@@ -56,7 +199,64 @@
   },
   "Home & Living": {
     "google": [],
-    "reddit": [],
+    "reddit": [
+      {
+        "term": "Is this art too “inappropriate” to display in my home? (34M)",
+        "value": 573,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1rz0hdd/is_this_art_too_inappropriate_to_display_in_my/",
+        "thumbnail": "https://preview.redd.it/1nr2784458qg1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=6c8b59659e8be0b9ff6817425c4fa0c0647ec10f"
+      },
+      {
+        "term": "31M, finally made a peaceful place",
+        "value": 1296,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1rys60x/31m_finally_made_a_peaceful_place/",
+        "thumbnail": "https://preview.redd.it/y4165z6bb6qg1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bb688ba97a4d45ad9886ac55c92947fd7b674f90"
+      },
+      {
+        "term": "31M - GF moving in next weekend - swan song for the pad",
+        "value": 17857,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1ry5h5s/31m_gf_moving_in_next_weekend_swan_song_for_the/",
+        "thumbnail": "https://preview.redd.it/usk78us711qg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ecffacb43e3a2a395f026c1b253616301b1afeab"
+      },
+      {
+        "term": "47M divorced shared space with my son and cat",
+        "value": 2272,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1ryd4b7/47m_divorced_shared_space_with_my_son_and_cat/",
+        "thumbnail": "https://preview.redd.it/hf5db28vl2qg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bb1aba216408bb68079ae17ea7d23db4303e9e19"
+      },
+      {
+        "term": "M 39, not much but its mine...",
+        "value": 846,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1ryf2af/m_39_not_much_but_its_mine/",
+        "thumbnail": "https://preview.redd.it/j6ki4n05z2qg1.jpg?width=140&amp;height=105&amp;auto=webp&amp;s=4a850bdca1cc7aa7da5ba53e928c4e440bc177e5"
+      },
+      {
+        "term": "Single Male, remodeling century home with mid century vibes",
+        "value": 1196,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1ryb11o/single_male_remodeling_century_home_with_mid/",
+        "thumbnail": "https://preview.redd.it/15yoct2q72qg1.jpg?width=140&amp;height=140&amp;auto=webp&amp;s=c988c2886a9b5d9e1e10eb62e96a4ce25951fc56"
+      },
+      {
+        "term": "favorite place at home",
+        "value": 1465,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1ry54m5/favorite_place_at_home/",
+        "thumbnail": "https://preview.redd.it/tzvg0mei31qg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=4fe0d4adb621c6a099418172f6ff564d5cb69b6d"
+      },
+      {
+        "term": "35M - My first place where I actually have some space",
+        "value": 18,
+        "source": "r/malelivingspace",
+        "url": "https://reddit.com/r/malelivingspace/comments/1rz0455/35m_my_first_place_where_i_actually_have_some/",
+        "thumbnail": "https://preview.redd.it/lyv3h1y328qg1.jpeg?width=140&amp;height=63&amp;auto=webp&amp;s=270bc26574ea41ec866dc303ffcd89de98e30dae"
+      }
+    ],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
       "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/3167641?tag=DEIN-TAG-21"
