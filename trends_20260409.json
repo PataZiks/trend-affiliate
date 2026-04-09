@@ -18,28 +18,28 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
-      },
-      {
         "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
-        "term": "home assistant",
-        "value": 74,
+        "term": "bosch",
+        "value": 99,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 74,
+        "value": 78,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "home assistant",
+        "value": 78,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "ikea smart home",
