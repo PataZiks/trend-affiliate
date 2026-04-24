@@ -25,25 +25,25 @@
       },
       {
         "term": "smart home bosch",
-        "value": 99,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 74,
+        "value": 75,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 73,
+        "value": 75,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 40,
+        "value": 41,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       }
