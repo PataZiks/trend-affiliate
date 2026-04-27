@@ -16,38 +16,7 @@
     }
   },
   "Tech & Gadgets": {
-    "google": [
-      {
-        "term": "smart home bosch",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
-      },
-      {
-        "term": "smart home assistant",
-        "value": 76,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
-      },
-      {
-        "term": "home assistant",
-        "value": 76,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
-      },
-      {
-        "term": "ikea home smart",
-        "value": 47,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
-      },
-      {
-        "term": "smart home app",
-        "value": 42,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Gadgets%202025&tag=DEIN-TAG-21&rh=n:573084",
