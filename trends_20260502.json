@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "smart home assistant",
+        "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 100,
+        "value": 65,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "ikea home smart",
-        "value": 63,
+        "term": "smart home assistant",
+        "value": 64,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 61,
+        "value": 39,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       },
       {
-        "term": "apple home",
-        "value": 37,
+        "term": "ikea home smart",
+        "value": 38,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
       }
     ],
     "reddit": [],
