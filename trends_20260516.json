@@ -25,27 +25,27 @@
       },
       {
         "term": "home assistant",
-        "value": 74,
+        "value": 75,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "ikea home smart",
-        "value": 44,
+        "term": "smart home assistant",
+        "value": 74,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "ikea smart home",
+        "value": 45,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 38,
+        "value": 39,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "apple smart home",
-        "value": 26,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
