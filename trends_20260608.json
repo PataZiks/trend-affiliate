@@ -25,21 +25,21 @@
       },
       {
         "term": "matter smart home",
-        "value": 28,
+        "value": 29,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
       },
       {
         "term": "zigbee",
-        "value": 17,
+        "value": 18,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=zigbee&geo=DE"
       },
       {
-        "term": "alexa",
-        "value": 16,
+        "term": "smart home system",
+        "value": 15,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=alexa&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20system&geo=DE"
       }
     ],
     "reddit": [],
