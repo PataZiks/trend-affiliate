@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "smart home bosch",
+        "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
-        "term": "smart home assistant",
-        "value": 88,
+        "term": "bosch",
+        "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 87,
+        "value": 89,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "ikea smart home",
-        "value": 51,
+        "term": "smart home assistant",
+        "value": 89,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "smart home app",
-        "value": 46,
+        "term": "ikea home smart",
+        "value": 52,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
       }
     ],
     "reddit": [],
