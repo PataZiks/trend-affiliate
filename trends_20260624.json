@@ -25,27 +25,27 @@
       },
       {
         "term": "smart home assistant",
-        "value": 90,
+        "value": 89,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 90,
+        "value": 89,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "google smart home",
+        "term": "smart home app",
         "value": 55,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       },
       {
-        "term": "google home",
-        "value": 55,
+        "term": "google smart home",
+        "value": 48,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
