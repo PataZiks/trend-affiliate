@@ -24,7 +24,38 @@
     }
   },
   "Home & Living": {
-    "google": [],
+    "google": [
+      {
+        "term": "kleine wohnung einrichten",
+        "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
+      },
+      {
+        "term": "ikea",
+        "value": 46,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=ikea&geo=DE"
+      },
+      {
+        "term": "wohnung einrichten ideen",
+        "value": 45,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
+      },
+      {
+        "term": "wohnzimmer einrichten",
+        "value": 39,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnzimmer%20einrichten&geo=DE"
+      },
+      {
+        "term": "1 zimmer wohnung einrichten",
+        "value": 39,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
+      }
+    ],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
