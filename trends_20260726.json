@@ -1,0 +1,96 @@
+{
+  "Frauen Mode & Beauty": {
+    "google": [],
+    "reddit": [],
+    "amazon_links": {
+      "search": "https://www.amazon.de/s?k=Damen%20Mode%20Trend&tag=DEIN-TAG-21&rh=n:1981002031",
+      "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/1981002031?tag=DEIN-TAG-21"
+    }
+  },
+  "Männer Mode": {
+    "google": [],
+    "reddit": [],
+    "amazon_links": {
+      "search": "https://www.amazon.de/s?k=Herren%20Mode%20Trend&tag=DEIN-TAG-21&rh=n:77028031",
+      "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/77028031?tag=DEIN-TAG-21"
+    }
+  },
+  "Tech & Gadgets": {
+    "google": [
+      {
+        "term": "bosch smart home",
+        "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+      },
+      {
+        "term": "home assistant",
+        "value": 71,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+      },
+      {
+        "term": "smart home assistant",
+        "value": 70,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "smart home app",
+        "value": 40,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
+      },
+      {
+        "term": "matter",
+        "value": 26,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=matter&geo=DE"
+      }
+    ],
+    "reddit": [],
+    "amazon_links": {
+      "search": "https://www.amazon.de/s?k=Gadgets%202025&tag=DEIN-TAG-21&rh=n:573084",
+      "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/573084?tag=DEIN-TAG-21"
+    }
+  },
+  "Home & Living": {
+    "google": [
+      {
+        "term": "kleine wohnung einrichten",
+        "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
+      },
+      {
+        "term": "ikea",
+        "value": 53,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=ikea&geo=DE"
+      },
+      {
+        "term": "1 zimmer wohnung einrichten",
+        "value": 50,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
+      },
+      {
+        "term": "wohnung einrichten ideen",
+        "value": 43,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
+      },
+      {
+        "term": "wohnung einrichten planer",
+        "value": 12,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20planer&geo=DE"
+      }
+    ],
+    "reddit": [],
+    "amazon_links": {
+      "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
+      "bestseller": "https://www.amazon.de/gp/bestsellers/fashion/3167641?tag=DEIN-TAG-21"
+    }
+  }
+}
