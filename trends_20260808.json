@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "home assistant",
+        "term": "bosch smart home",
         "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+      },
+      {
+        "term": "smart home assistant",
+        "value": 78,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "home assistant",
+        "value": 78,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "ikea smart home",
-        "value": 69,
+        "term": "smart home app",
+        "value": 47,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       },
       {
         "term": "what is a smart home",
-        "value": 47,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=what%20is%20a%20smart%20home&geo=DE"
-      },
-      {
-        "term": "best smart home hubs",
-        "value": 46,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=best%20smart%20home%20hubs&geo=DE"
-      },
-      {
-        "term": "google home",
         "value": 39,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=what%20is%20a%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
@@ -64,7 +64,7 @@
       },
       {
         "term": "1 zimmer wohnung einrichten",
-        "value": 39,
+        "value": 64,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
