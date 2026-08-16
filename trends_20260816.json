@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "ikea home smart",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
-      },
-      {
         "term": "smart home bosch",
-        "value": 80,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
       },
       {
-        "term": "smart home assistant",
-        "value": 62,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
-      },
-      {
         "term": "home assistant",
-        "value": 62,
+        "value": 78,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "google smart home",
-        "value": 47,
+        "term": "smart home assistant",
+        "value": 78,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "apple smart home",
+        "value": 37,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+      },
+      {
+        "term": "apple home",
+        "value": 37,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       }
     ],
     "reddit": [],
@@ -55,26 +55,7 @@
     }
   },
   "Home & Living": {
-    "google": [
-      {
-        "term": "ikea",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea&geo=DE"
-      },
-      {
-        "term": "wohnung einrichten ideen",
-        "value": 99,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
-      },
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 58,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
