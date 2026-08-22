@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch smart home",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
-      },
-      {
         "term": "google home",
-        "value": 73,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
       },
       {
         "term": "google smart home",
-        "value": 72,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 67,
+        "value": 91,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 66,
+        "value": 91,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+      },
+      {
+        "term": "smart home app",
+        "value": 82,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       }
     ],
     "reddit": [],
@@ -57,8 +57,14 @@
   "Home & Living": {
     "google": [
       {
-        "term": "1 zimmer wohnung einrichten",
+        "term": "wohnung einrichten ideen",
         "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
+      },
+      {
+        "term": "1 zimmer wohnung einrichten",
+        "value": 87,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
