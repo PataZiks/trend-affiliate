@@ -25,25 +25,25 @@
       },
       {
         "term": "google home",
-        "value": 71,
+        "value": 72,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
       },
       {
-        "term": "google smart home",
-        "value": 71,
+        "term": "smart home apple",
+        "value": 63,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 61,
+        "value": 63,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 61,
+        "value": 63,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       }
@@ -57,8 +57,20 @@
   "Home & Living": {
     "google": [
       {
-        "term": "1 zimmer wohnung einrichten",
+        "term": "kleine wohnung einrichten",
         "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
+      },
+      {
+        "term": "wohnung einrichten ideen",
+        "value": 75,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
+      },
+      {
+        "term": "1 zimmer wohnung einrichten",
+        "value": 61,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
