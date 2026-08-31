@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch smart home",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
-      },
-      {
         "term": "google home",
-        "value": 72,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
       },
       {
-        "term": "apple home",
-        "value": 69,
+        "term": "google smart home",
+        "value": 99,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
       },
       {
-        "term": "apple smart home",
-        "value": 69,
+        "term": "smart home assistant",
+        "value": 87,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 62,
+        "value": 86,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+      },
+      {
+        "term": "smart home app",
+        "value": 82,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       }
     ],
     "reddit": [],
@@ -55,20 +55,7 @@
     }
   },
   "Home & Living": {
-    "google": [
-      {
-        "term": "kleine wohnung einrichten",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
-      },
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 45,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
