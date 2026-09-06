@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "ikea home smart",
+        "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+      },
+      {
+        "term": "smart home ikea",
+        "value": 68,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20ikea&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 93,
+        "value": 62,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 92,
+        "value": 62,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "smart home app",
-        "value": 80,
+        "term": "apple home",
+        "value": 50,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "google smart home",
-        "value": 79,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       }
     ],
     "reddit": [],
@@ -64,15 +64,9 @@
       },
       {
         "term": "wohnung einrichten ideen",
-        "value": 45,
+        "value": 69,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
-      },
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 32,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
     ],
     "reddit": [],
