@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
-      },
-      {
         "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
-        "term": "home assistant",
-        "value": 67,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
-      },
-      {
         "term": "smart home assistant",
-        "value": 66,
+        "value": 67,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "ikea home smart",
-        "value": 57,
+        "term": "apple smart home",
+        "value": 49,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+      },
+      {
+        "term": "smart home app",
+        "value": 46,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
+      },
+      {
+        "term": "google home",
+        "value": 41,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
       }
     ],
     "reddit": [],
@@ -55,14 +55,7 @@
     }
   },
   "Home & Living": {
-    "google": [
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
