@@ -24,28 +24,28 @@
         "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
+        "term": "bosch",
+        "value": 99,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
+      },
+      {
         "term": "smart home assistant",
-        "value": 67,
+        "value": 68,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "apple smart home",
-        "value": 49,
+        "value": 48,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 46,
+        "value": 45,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "google home",
-        "value": 41,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
       }
     ],
     "reddit": [],
