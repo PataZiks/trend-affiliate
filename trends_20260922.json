@@ -25,21 +25,21 @@
       },
       {
         "term": "smart home assistant",
-        "value": 59,
+        "value": 60,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 58,
+        "value": 59,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "what is a smart home",
-        "value": 44,
+        "term": "ikea smart home",
+        "value": 48,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=what%20is%20a%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
         "term": "smart home app",
@@ -63,8 +63,14 @@
         "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
       },
       {
+        "term": "wohnung einrichten ideen",
+        "value": 57,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
+      },
+      {
         "term": "1 zimmer wohnung einrichten",
-        "value": 38,
+        "value": 34,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
