@@ -25,25 +25,25 @@
       },
       {
         "term": "smart home assistant",
-        "value": 56,
+        "value": 52,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 56,
+        "value": 51,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "ikea home smart",
-        "value": 44,
+        "term": "ikea smart home",
+        "value": 43,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 40,
+        "value": 37,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       }
@@ -55,26 +55,7 @@
     }
   },
   "Home & Living": {
-    "google": [
-      {
-        "term": "kleine wohnung einrichten",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
-      },
-      {
-        "term": "wohnung einrichten ideen",
-        "value": 73,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
-      },
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 51,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
