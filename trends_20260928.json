@@ -18,32 +18,32 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "home assistant",
+        "term": "smart home bosch",
         "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
+      },
+      {
+        "term": "home assistant",
+        "value": 56,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
-        "term": "smart home assistant",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
-      },
-      {
         "term": "ikea smart home",
-        "value": 80,
+        "value": 45,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
         "term": "smart home app",
-        "value": 70,
+        "value": 39,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       },
       {
         "term": "apple home",
-        "value": 61,
+        "value": 34,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       }
@@ -55,14 +55,7 @@
     }
   },
   "Home & Living": {
-    "google": [
-      {
-        "term": "1 zimmer wohnung einrichten",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
-      }
-    ],
+    "google": [],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
