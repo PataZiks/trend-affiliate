@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "smart home assistant",
+        "term": "smart home ikea",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20ikea&geo=DE"
       },
       {
-        "term": "smart home app",
-        "value": 65,
+        "term": "home assistant",
+        "value": 90,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "apple smart home",
-        "value": 64,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "apple home",
-        "value": 64,
+        "value": 58,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       },
       {
-        "term": "google home",
-        "value": 54,
+        "term": "apple smart home",
+        "value": 57,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=google%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+      },
+      {
+        "term": "smart home app",
+        "value": 57,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
       }
     ],
     "reddit": [],
