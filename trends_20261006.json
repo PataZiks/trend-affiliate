@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "home assistant",
+        "term": "bosch smart home",
         "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+      },
+      {
+        "term": "home assistant",
+        "value": 63,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
+        "term": "smart home assistant",
+        "value": 62,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
+      },
+      {
+        "term": "apple smart home",
+        "value": 37,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+      },
+      {
         "term": "apple home",
-        "value": 60,
+        "value": 36,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
-      },
-      {
-        "term": "smart home apple",
-        "value": 60,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
-      },
-      {
-        "term": "smart home app",
-        "value": 58,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
-        "term": "smart home hub",
-        "value": 47,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20hub&geo=DE"
       }
     ],
     "reddit": [],
@@ -55,7 +55,14 @@
     }
   },
   "Home & Living": {
-    "google": [],
+    "google": [
+      {
+        "term": "1 zimmer wohnung einrichten",
+        "value": 100,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
+      }
+    ],
     "reddit": [],
     "amazon_links": {
       "search": "https://www.amazon.de/s?k=Wohndeko%20Trend&tag=DEIN-TAG-21&rh=n:3167641",
