@@ -18,16 +18,16 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch smart home",
+        "term": "bosch",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
       },
       {
-        "term": "home assistant",
-        "value": 63,
+        "term": "bosch smart home",
+        "value": 99,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
         "term": "smart home assistant",
@@ -36,14 +36,14 @@
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "apple smart home",
-        "value": 37,
+        "term": "home assistant",
+        "value": 61,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "apple home",
-        "value": 36,
+        "value": 37,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       }
