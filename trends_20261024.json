@@ -18,32 +18,32 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "ikea home smart",
-        "value": 100,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
-      },
-      {
         "term": "smart home thermostat",
-        "value": 61,
+        "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20thermostat&geo=DE"
       },
       {
         "term": "apple home",
-        "value": 53,
+        "value": 84,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       },
       {
-        "term": "matter smart home",
-        "value": 41,
+        "term": "smart home apple",
+        "value": 84,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
+      },
+      {
+        "term": "smart home matter",
+        "value": 67,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20matter&geo=DE"
       },
       {
         "term": "matter",
-        "value": 41,
+        "value": 66,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=matter&geo=DE"
       }
