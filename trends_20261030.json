@@ -30,20 +30,20 @@
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
       },
       {
-        "term": "matter smart home",
-        "value": 70,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
-      },
-      {
         "term": "matter",
-        "value": 69,
+        "value": 71,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=matter&geo=DE"
       },
       {
+        "term": "matter smart home",
+        "value": 69,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
+      },
+      {
         "term": "smart home hub",
-        "value": 68,
+        "value": 67,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20hub&geo=DE"
       }
