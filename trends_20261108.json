@@ -18,34 +18,34 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "ikea home smart",
+        "term": "bosch smart home",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+      },
+      {
+        "term": "bosch",
+        "value": 97,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
       },
       {
         "term": "smart home thermostat",
-        "value": 50,
+        "value": 31,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20thermostat&geo=DE"
       },
       {
+        "term": "smart home app",
+        "value": 28,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
+      },
+      {
         "term": "apple home",
-        "value": 41,
+        "value": 26,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
-      },
-      {
-        "term": "matter",
-        "value": 34,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=matter&geo=DE"
-      },
-      {
-        "term": "matter smart home",
-        "value": 34,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
