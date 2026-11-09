@@ -24,28 +24,28 @@
         "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
-        "term": "bosch",
-        "value": 97,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch&geo=DE"
-      },
-      {
         "term": "smart home thermostat",
-        "value": 31,
+        "value": 32,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20thermostat&geo=DE"
       },
       {
-        "term": "smart home app",
-        "value": 28,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20app&geo=DE"
-      },
-      {
         "term": "apple home",
-        "value": 26,
+        "value": 27,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20home&geo=DE"
+      },
+      {
+        "term": "smart home apple",
+        "value": 27,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
+      },
+      {
+        "term": "matter smart home",
+        "value": 23,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=matter%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
