@@ -18,32 +18,32 @@
   "Tech & Gadgets": {
     "google": [
       {
-        "term": "bosch smart home",
+        "term": "smart home bosch",
         "value": 100,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=smart%20home%20bosch&geo=DE"
       },
       {
         "term": "home assistant",
-        "value": 52,
+        "value": 59,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 52,
+        "value": 58,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "smart home ikea",
-        "value": 51,
+        "value": 55,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20ikea&geo=DE"
       },
       {
         "term": "thermostat smart home",
-        "value": 30,
+        "value": 31,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=thermostat%20smart%20home&geo=DE"
       }
