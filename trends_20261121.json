@@ -32,7 +32,7 @@
       },
       {
         "term": "home assistant",
-        "value": 49,
+        "value": 48,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
@@ -43,14 +43,14 @@
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "ikea home smart",
-        "value": 46,
+        "term": "ikea smart home",
+        "value": 44,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
         "term": "smart home apple",
-        "value": 32,
+        "value": 30,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
       }
@@ -71,13 +71,13 @@
       },
       {
         "term": "wohnung einrichten ideen",
-        "value": 67,
+        "value": 63,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
       },
       {
         "term": "wohnung einrichten planer",
-        "value": 16,
+        "value": 11,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20planer&geo=DE"
       }
