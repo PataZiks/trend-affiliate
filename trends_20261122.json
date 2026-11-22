@@ -14,6 +14,12 @@
         "value": 100,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=old%20money%20style%20herren&geo=DE"
+      },
+      {
+        "term": "business style herren",
+        "value": 11,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=business%20style%20herren&geo=DE"
       }
     ],
     "reddit": [],
@@ -32,27 +38,27 @@
       },
       {
         "term": "home assistant",
-        "value": 48,
+        "value": 46,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
       },
       {
         "term": "smart home assistant",
-        "value": 48,
+        "value": 46,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
         "term": "ikea smart home",
-        "value": 44,
+        "value": 40,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
       },
       {
-        "term": "smart home apple",
-        "value": 30,
+        "term": "apple smart home",
+        "value": 28,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=smart%20home%20apple&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
       }
     ],
     "reddit": [],
@@ -71,15 +77,15 @@
       },
       {
         "term": "wohnung einrichten ideen",
-        "value": 63,
+        "value": 94,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
       },
       {
-        "term": "wohnung einrichten planer",
-        "value": 11,
+        "term": "wohnung einrichten app",
+        "value": 63,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20planer&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20app&geo=DE"
       }
     ],
     "reddit": [],
