@@ -16,6 +16,12 @@
         "url": "https://trends.google.com/trends/explore?q=old%20money%20style%20herren&geo=DE"
       },
       {
+        "term": "winter style herren",
+        "value": 64,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=winter%20style%20herren&geo=DE"
+      },
+      {
         "term": "business style herren",
         "value": 11,
         "source": "Google Trends",
@@ -37,26 +43,26 @@
         "url": "https://trends.google.com/trends/explore?q=bosch%20smart%20home&geo=DE"
       },
       {
-        "term": "home assistant",
-        "value": 46,
-        "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
-      },
-      {
         "term": "smart home assistant",
-        "value": 46,
+        "value": 45,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=smart%20home%20assistant&geo=DE"
       },
       {
-        "term": "ikea smart home",
+        "term": "home assistant",
+        "value": 45,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=home%20assistant&geo=DE"
+      },
+      {
+        "term": "ikea home smart",
         "value": 40,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=ikea%20smart%20home&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=ikea%20home%20smart&geo=DE"
       },
       {
         "term": "apple smart home",
-        "value": 28,
+        "value": 26,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=apple%20smart%20home&geo=DE"
       }
@@ -76,16 +82,22 @@
         "url": "https://trends.google.com/trends/explore?q=kleine%20wohnung%20einrichten&geo=DE"
       },
       {
+        "term": "wohnung einrichten app",
+        "value": 69,
+        "source": "Google Trends",
+        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20app&geo=DE"
+      },
+      {
         "term": "wohnung einrichten ideen",
-        "value": 94,
+        "value": 66,
         "source": "Google Trends",
         "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20ideen&geo=DE"
       },
       {
-        "term": "wohnung einrichten app",
-        "value": 63,
+        "term": "1 zimmer wohnung einrichten",
+        "value": 48,
         "source": "Google Trends",
-        "url": "https://trends.google.com/trends/explore?q=wohnung%20einrichten%20app&geo=DE"
+        "url": "https://trends.google.com/trends/explore?q=1%20zimmer%20wohnung%20einrichten&geo=DE"
       }
     ],
     "reddit": [],
